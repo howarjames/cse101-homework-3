@@ -1,0 +1,9 @@
+Kevin_Bacon Morgan_Freeman
+Kevin_Bacon Meryl_Streep
+COSTARS Kevin_Bacon
+COMMON George_Lucas Lawrence_Kasdan
+WITHIN Kevin_Bacon 2
+FARTHEST Kevin_Bacon
+AVOID Kevin_Bacon Morgan_Freeman Steven_Spielberg
+COUNT Harrison_Ford Lawrence_Kasdan
+MEET Harrison_Ford Lawrence_Kasdan

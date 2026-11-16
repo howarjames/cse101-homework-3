@@ -1,0 +1,1 @@
+findActor returns an actor's id, or -1 if the actor is not in the graph.

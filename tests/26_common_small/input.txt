@@ -1,0 +1,8 @@
+COMMON George_Lucas Lawrence_Kasdan
+COMMON Harrison_Ford Lawrence_Kasdan
+COMMON Tom_Hanks Kevin_Bacon
+COMMON David_Koepp Lori_Singer
+COMMON Kevin_Bacon Morgan_Freeman
+COMMON Kevin_Bacon Kevin_Bacon
+COMMON Zach_Bush Kevin_Bacon
+COMMON Drake Tom_Hanks

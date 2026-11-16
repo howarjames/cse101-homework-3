@@ -1,0 +1,1 @@
+addActor gives new actors ids 0, 1, ... and returns the old id for a known actor.

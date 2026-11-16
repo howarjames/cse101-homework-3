@@ -1,0 +1,8 @@
+COUNT Kate_Colebrook Jeremy_Lunt
+COUNT Terence_Dudley Adelina_Monroe
+COUNT Michael_Cera Oliver_Bock
+COUNT Ellen_Trent Leonardo_DiCaprio
+COUNT Kenny_Dusek_Jr. David_Weishaar
+COUNT Spenser_Granese George_Clooney
+COUNT Natalie_Portman Natalie_Portman
+COUNT Natalie_Portman Ellen_Page_

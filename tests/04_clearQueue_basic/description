@@ -1,0 +1,1 @@
+clearQueue empties a queue, which can then be reused.

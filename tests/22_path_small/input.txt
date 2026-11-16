@@ -1,0 +1,10 @@
+Douglas_Greenberg Douglas_Greenberg
+Pierce_Brosnan Harrison_Ford
+Paula_Abdul Gavin_Polone
+Kevin_Bacon Ron_Howard
+Douglas_Greenberg Lori_Singer
+Paula_Abdul George_Lucas
+Douglas_Greenberg George_Lucas
+Harrison_Ford Douglas_Greenberg
+Drake Lawrence_Kasdan
+Lori_Singer Lori_Singer

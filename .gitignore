@@ -1,0 +1,5 @@
+sixdegrees
+sixdegrees.exe
+*.o
+test_output/
+.DS_Store
